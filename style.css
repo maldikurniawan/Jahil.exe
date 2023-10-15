@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+#jumpscare-container {
+    display: none;
+}
+
+#jumpscare-image {
+    width: 1500px;
+}
